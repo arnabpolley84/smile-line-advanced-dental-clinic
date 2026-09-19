@@ -1,0 +1,7 @@
+{
+  "name": "Smile Line Advanced Dental Clinic",
+  "description": "Smile Line Advanced Dental Clinic in Purbalok, Kolkata, provides professional and patient-focused dental care. Contact the clinic to discuss your dental care needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
